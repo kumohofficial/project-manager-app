@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <Header pageTitle="Project Manager"/>
+    <Header pageTitle="Project Manager - Home"/>
   </div>
 </template>
 
