@@ -1,4 +1,4 @@
-# project-manager-app
+# Project Manager APP (frontend) 
 
 ## Project setup
 ```

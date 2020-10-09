@@ -1,6 +1,6 @@
 <template>
   <div>
-      <h1 class="pageTitle">{{ pageTitle }}</h1>
+      <h1 class="pageTitle" v-if="pageTitle">{{ pageTitle }}</h1>
   </div>
 </template>
 
